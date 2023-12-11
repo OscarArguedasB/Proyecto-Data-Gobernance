@@ -15,7 +15,7 @@ El proyecto incluye una serie de páginas HTML que abordan diferentes aspectos d
 
 Para explorar más sobre el proyecto y acceder a los recursos, visita nuestro sitio web.
 
-[![Ir al Sitio Web](https://img.shields.io/badge/-Ir%20al%20Sitio%20Web-blue?style=for-the-badge&logo=azure)](URL_DEL_SITIO_WEB)
+[![Ir al Sitio Web](https://img.shields.io/badge/-Ir%20al%20Sitio%20Web-blue?style=for-the-badge&logo=azure)](https://brave-hill-0e01ed00f.4.azurestaticapps.net)
 
 ## Contribuciones
 
